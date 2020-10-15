@@ -1,2 +1,2 @@
 # Portuguese_Banking
-This project will enable the bank to develop a more granular understanding of its customer base, predict customers' response to its telemarketing campaign and establish a target customer profile for future marketing plans.
+This project will enable the bank to understand its client profile and predict clients' response to its telemarketing campaign.  Additionally, insights will establish target customer profiles to aid in adjusting future marketing plans.
